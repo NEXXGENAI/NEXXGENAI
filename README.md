@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NEXXGENAI
+- 👋 Hi, I’m Paul @NEXXGENAI
 - 👀 I’m interested in AI, blockchain, finance and start-ups
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI blockchain start-ups
